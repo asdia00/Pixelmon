@@ -1,0 +1,14 @@
+{
+  "pixelmon:pokedex/pokedex_trigger": {
+    "criteria": {
+      "pokedex_base": "2021-09-09 21:58:14 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "swampland": "2021-09-09 21:58:04 +0800"
+    },
+    "done": false
+  }
+}
